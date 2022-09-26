@@ -1,0 +1,6 @@
+{
+    "token": "ODY0MzMxNDUzNTA4MzU0MDc4.GblqYS.IcmCYF5xvuHHCpmS3nCXN8ZMJxnRbjco5alZEA",
+    "color": "BLUE",
+    "prefix": "^",
+    "mongooseConnectionString": "mongodb+srv://sdal:proton1230@cluster0.j4noha2.mongodb.net/?retryWrites=true&w=majority"
+}
